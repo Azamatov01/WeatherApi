@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Azama\\.gradle\\daemon\\8.4\\com.example.weatherapp_md.app-mergeDebugResources-45:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Azama\\.gradle\\daemon\\8.4\\com.example.weatherapp_md.app-main-48:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.example.weatherapp_md.app-mergeDebugResources-45:/layout/fragment_home.xml",
+        "source": "com.example.weatherapp_md.app-main-48:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Azama\\.gradle\\daemon\\8.4\\com.example.weatherapp_md.app-mergeDebugResources-45:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Azama\\.gradle\\daemon\\8.4\\com.example.weatherapp_md.app-main-48:\\layout\\activity_main.xml"
+    }
+]
